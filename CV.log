@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.2.9)  24 APR 2023 09:45
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.2.9)  9 MAY 2023 17:48
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -704,27 +704,60 @@ Package: graphbox 2018/01/17 v1.1 extension for graphicx to adjust containing bo
 \Gin@box@hspace=\skip59
 \Gin@box@bwidth=\skip60
 \Gin@box@bheight=\skip61
+) (C:\Users\jackd\AppData\Local\Programs\MiKTeX\tex/latex/pdfpages\pdfpages.sty
+Package: pdfpages 2022/12/19 v0.5x Insert pages of external PDF documents (AM)
+ (C:\Users\jackd\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count341
+\calc@Bcount=\count342
+\calc@Adimen=\dimen287
+\calc@Bdimen=\dimen288
+\calc@Askip=\skip62
+\calc@Bskip=\skip63
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count343
+\calc@Cskip=\skip64
+) (C:\Users\jackd\AppData\Local\Programs\MiKTeX\tex/latex/eso-pic\eso-pic.sty
+Package: eso-pic 2020/10/14 v3.0a eso-pic (RN)
+\ESO@tempdima=\dimen289
+\ESO@tempdimb=\dimen290
+)
+\AM@pagewidth=\dimen291
+\AM@pageheight=\dimen292
+\AM@fboxrule=\dimen293
+ (C:\Users\jackd\AppData\Local\Programs\MiKTeX\tex/latex/pdfpages\pppdftex.def
+File: pppdftex.def 2022/12/19 v0.5x Pdfpages driver for pdfTeX (AM)
+)
+\pdfpages@includegraphics@status=\count344
+\AM@pagebox=\box125
+\AM@global@opts=\toks43
+\AM@pagecnt=\count345
+\AM@toc@title=\toks44
+\AM@lof@heading=\toks45
+\c@AM@survey=\count346
+\AM@templatesizebox=\box126
 ) (CV.aux)
 \openout1 = `CV.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -760,153 +793,157 @@ LaTeX Font Info:    ... okay on input line 8.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-\c@mv@tabular=\count341
-\c@mv@boldtabular=\count342
+\c@mv@tabular=\count347
+\c@mv@boldtabular=\count348
 (C:\Users\jackd\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count343
-\scratchdimen=\dimen287
-\scratchbox=\box125
-\nofMPsegments=\count344
-\nofMParguments=\count345
-\everyMPshowfont=\toks43
-\MPscratchCnt=\count346
-\MPscratchDim=\dimen288
-\MPnumerator=\count347
-\makeMPintoPDFobject=\count348
-\everyMPtoPDFconversion=\toks44
+\scratchcounter=\count349
+\scratchdimen=\dimen294
+\scratchbox=\box127
+\nofMPsegments=\count350
+\nofMParguments=\count351
+\everyMPshowfont=\toks46
+\MPscratchCnt=\count352
+\MPscratchDim=\dimen295
+\MPnumerator=\count353
+\makeMPintoPDFobject=\count354
+\everyMPtoPDFconversion=\toks47
 ) (C:\Users\jackd\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
  (C:\Users\jackd\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-\c@lstlisting=\count349
-Package hyperref Info: Link coloring OFF on input line 8.
+\c@lstlisting=\count355
+Package hyperref Info: Link coloring OFF on input line 9.
  (CV.out) (CV.out)
 \@outlinefile=\write4
 \openout4 = `CV.out'.
 
+ (C:\Users\jackd\AppData\Local\Programs\MiKTeX\tex/latex/pdflscape\pdflscape.sty
+Package: pdflscape 2022-10-27 v0.13 Display of landscape pages in PDF
+ (C:\Users\jackd\AppData\Local\Programs\MiKTeX\tex/latex/pdflscape\pdflscape-nometadata.sty
+Package: pdflscape-nometadata 2022-10-28 v0.13 Display of landscape pages in PDF (HO)
+ (C:\Users\jackd\AppData\Local\Programs\MiKTeX\tex/latex/graphics\lscape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+))
 <setup/pics/pp2.jpg, id=42, 99.61215pt x 113.82526pt>
 File: setup/pics/pp2.jpg Graphic file (type jpg)
 <use setup/pics/pp2.jpg>
-Package pdftex.def Info: setup/pics/pp2.jpg  used on input line 15.
+Package pdftex.def Info: setup/pics/pp2.jpg  used on input line 18.
 (pdftex.def)             Requested size: 78.95721pt x 90.2249pt.
 LaTeX Font Info:    Font shape `T1/ArchivZero-OsF/m/n' will be
-(Font)              scaled to size 24.88pt on input line 18.
+(Font)              scaled to size 24.88pt on input line 21.
 LaTeX Font Info:    Font shape `T1/ArchivZero-OsF/b/n' will be
-(Font)              scaled to size 24.88pt on input line 18.
+(Font)              scaled to size 24.88pt on input line 21.
 LaTeX Font Info:    Font shape `T1/ArchivZero-OsF/m/n' will be
-(Font)              scaled to size 14.4pt on input line 18.
-LaTeX Font Info:    Trying to load font information for U+fontawesomefree1 on input line 21.
+(Font)              scaled to size 14.4pt on input line 21.
+LaTeX Font Info:    Trying to load font information for U+fontawesomefree1 on input line 24.
  (C:\Users\jackd\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\ufontawesomefree1.fd)
-LaTeX Font Info:    Trying to load font information for U+fontawesomebrands0 on input line 22.
+LaTeX Font Info:    Trying to load font information for U+fontawesomebrands0 on input line 25.
  (C:\Users\jackd\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\ufontawesomebrands0.fd)
 LaTeX Font Info:    Font shape `U/fontawesomebrands0/solid/n' in size <10.95> not available
-(Font)              Font shape `U/fontawesomebrands0/regular/n' tried instead on input line 22.
-LaTeX Font Info:    Trying to load font information for U+fontawesomefree2 on input line 24.
+(Font)              Font shape `U/fontawesomebrands0/regular/n' tried instead on input line 25.
+LaTeX Font Info:    Trying to load font information for U+fontawesomefree2 on input line 27.
  (C:\Users\jackd\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\ufontawesomefree2.fd)
-Overfull \hbox (133.62303pt too wide) in paragraph at lines 14--27
+Overfull \hbox (133.62303pt too wide) in paragraph at lines 17--30
 []$[]$  $[]$ 
  []
 
-<setup/pics/flags/AE.png, id=48, 385.44pt x 385.44pt>
+<setup/pics/flags/AE.png, id=47, 385.44pt x 385.44pt>
 File: setup/pics/flags/AE.png Graphic file (type png)
 <use setup/pics/flags/AE.png>
-Package pdftex.def Info: setup/pics/flags/AE.png  used on input line 38.
+Package pdftex.def Info: setup/pics/flags/AE.png  used on input line 41.
 (pdftex.def)             Requested size: 25.18501pt x 25.18387pt.
-<setup/pics/flags/KE.png, id=49, 385.44pt x 385.44pt>
+<setup/pics/flags/KE.png, id=48, 385.44pt x 385.44pt>
 File: setup/pics/flags/KE.png Graphic file (type png)
 <use setup/pics/flags/KE.png>
-Package pdftex.def Info: setup/pics/flags/KE.png  used on input line 40.
+Package pdftex.def Info: setup/pics/flags/KE.png  used on input line 43.
 (pdftex.def)             Requested size: 25.18501pt x 25.18387pt.
-<setup/pics/flags/IN.png, id=50, 513.92pt x 359.3425pt>
+<setup/pics/flags/IN.png, id=49, 513.92pt x 359.3425pt>
 File: setup/pics/flags/IN.png Graphic file (type png)
 <use setup/pics/flags/IN.png>
-Package pdftex.def Info: setup/pics/flags/IN.png  used on input line 42.
+Package pdftex.def Info: setup/pics/flags/IN.png  used on input line 45.
 (pdftex.def)             Requested size: 25.18501pt x 17.60628pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 37--45
+Underfull \hbox (badness 10000) in paragraph at lines 40--48
 [][]  []
  []
 
 
-Underfull \hbox (badness 5756) in paragraph at lines 37--45
+Underfull \hbox (badness 5756) in paragraph at lines 40--48
 []  []
  []
 
 LaTeX Font Info:    Font shape `T1/ArchivZero-OsF/m/n' will be
-(Font)              scaled to size 12.0pt on input line 45.
+(Font)              scaled to size 12.0pt on input line 48.
 LaTeX Font Info:    Font shape `T1/ArchivZero-OsF/b/n' will be
-(Font)              scaled to size 12.0pt on input line 45.
-LaTeX Font Info:    Trying to load font information for T1+phv on input line 45.
+(Font)              scaled to size 12.0pt on input line 48.
+LaTeX Font Info:    Trying to load font information for T1+phv on input line 48.
 (C:\Users\jackd\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\t1phv.fd
 File: t1phv.fd 2020/03/25 scalable font definitions for T1/phv.
 )
 LaTeX Font Info:    Font shape `T1/ArchivZero-OsF/m/n' will be
-(Font)              scaled to size 8.0pt on input line 52.
+(Font)              scaled to size 8.0pt on input line 55.
 LaTeX Font Info:    Font shape `T1/ArchivZero-OsF/b/n' will be
-(Font)              scaled to size 14.4pt on input line 62.
+(Font)              scaled to size 14.4pt on input line 66.
 LaTeX Font Info:    Font shape `T1/ArchivZero-OsF/b/n' will be
-(Font)              scaled to size 17.28pt on input line 62.
+(Font)              scaled to size 17.28pt on input line 66.
 LaTeX Font Info:    Font shape `T1/ArchivZero-OsF/b/n' will be
-(Font)              scaled to size 8.0pt on input line 80.
+(Font)              scaled to size 8.0pt on input line 87.
 LaTeX Font Info:    Font shape `T1/ArchivZero-OsF/m/sl' in size <12> not available
-(Font)              Font shape `T1/ArchivZero-OsF/m/it' tried instead on input line 80.
+(Font)              Font shape `T1/ArchivZero-OsF/m/it' tried instead on input line 87.
 LaTeX Font Info:    Font shape `T1/ArchivZero-OsF/m/it' will be
-(Font)              scaled to size 12.0pt on input line 80.
+(Font)              scaled to size 12.0pt on input line 87.
 <setup/pics/globe.png, id=51, 1861.6752pt x 1809.6408pt>
 File: setup/pics/globe.png Graphic file (type png)
 <use setup/pics/globe.png>
-Package pdftex.def Info: setup/pics/globe.png  used on input line 80.
+Package pdftex.def Info: setup/pics/globe.png  used on input line 87.
 (pdftex.def)             Requested size: 24.0pt x 23.30525pt.
 LaTeX Font Info:    Font shape `T1/ArchivZero-OsF/m/n' will be
-(Font)              scaled to size 10.0pt on input line 80.
-LaTeX Font Info:    Trying to load font information for TS1+ArchivZero-OsF on input line 80.
+(Font)              scaled to size 10.0pt on input line 87.
+LaTeX Font Info:    Trying to load font information for TS1+ArchivZero-OsF on input line 87.
  (C:\Users\jackd\AppData\Local\Programs\MiKTeX\tex/latex/archivo\ts1archivzero-osf.fd
 File: TS1ArchivZero-OsF.fd 2020/12/30 (autoinst) Font definitions for TS1/ArchivZero-OsF.
 )
 LaTeX Font Info:    Font shape `TS1/ArchivZero-OsF/m/n' will be
-(Font)              scaled to size 10.0pt on input line 80.
+(Font)              scaled to size 10.0pt on input line 87.
 
-Underfull \hbox (badness 10000) in paragraph at lines 85--85
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 110--110
+Underfull \hbox (badness 10000) in paragraph at lines 92--92
 
  []
 
 
-Overfull \hbox (17.81966pt too wide) in paragraph at lines 35--129
+Underfull \hbox (badness 10000) in paragraph at lines 117--117
+
+ []
+
+
+Overfull \hbox (17.81966pt too wide) in paragraph at lines 38--136
 [][] [] 
  []
 
 [1
 
 {C:/Users/jackd/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./setup/pics/pp2.jpg> <./setup/pics/flags/AE.png> <./setup/pics/flags/KE.png> <./setup/pics/flags/IN.png> <./setup/pics/globe.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 140--143
+Underfull \hbox (badness 10000) in paragraph at lines 147--150
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 144--147
+Underfull \hbox (badness 10000) in paragraph at lines 151--154
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 160--160
+Underfull \hbox (badness 10000) in paragraph at lines 167--167
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 163--163
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 171--171
+Underfull \hbox (badness 10000) in paragraph at lines 170--170
 
  []
 
@@ -916,22 +953,27 @@ Underfull \hbox (badness 10000) in paragraph at lines 178--178
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 182--182
+Underfull \hbox (badness 10000) in paragraph at lines 185--185
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 187--187
+Underfull \hbox (badness 10000) in paragraph at lines 189--189
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 197--197
+Underfull \hbox (badness 10000) in paragraph at lines 194--194
 
  []
 
 
-Overfull \hbox (17.81966pt too wide) in paragraph at lines 137--201
+Underfull \hbox (badness 10000) in paragraph at lines 204--204
+
+ []
+
+
+Overfull \hbox (17.81966pt too wide) in paragraph at lines 144--208
 [][] [] 
  []
 
@@ -943,15 +985,15 @@ Package rerunfilecheck Info: File `CV.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 32537 strings out of 476374
- 669290 string characters out of 5788855
+ 33352 strings out of 476374
+ 684438 string characters out of 5788855
  1909340 words of memory out of 5000000
- 52361 multiletter control sequences out of 15000+600000
+ 53152 multiletter control sequences out of 15000+600000
  541936 words of font info for 77 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 98i,13n,102p,536b,1943s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 98i,13n,102p,536b,1958s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {C:/Users/jackd/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/archivo/a_owzwzj.enc}{C:/Users/jackd/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/archivo/a_utd4ik.enc}{C:/Users/jackd/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}{C:/Users/jackd/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5free2.enc}{C:/Users/jackd/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5brands0.enc}{C:/Users/jackd/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5free1.enc}<C:/Users/jackd/AppData/Local/Programs/MiKTeX/fonts/type1/public/archivo/Archiv0-Bold.pfb><C:/Users/jackd/AppData/Local/Programs/MiKTeX/fonts/type1/public/archivo/Archiv0-Italic.pfb><C:/Users/jackd/AppData/Local/Programs/MiKTeX/fonts/type1/public/archivo/Archiv0-Regular.pfb><C:/Users/jackd/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb><C:/Users/jackd/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb><C:/Users/jackd/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/jackd/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb>
-Output written on CV.pdf (2 pages, 1283904 bytes).
+Output written on CV.pdf (2 pages, 1283370 bytes).
 PDF statistics:
  141 PDF objects out of 1000 (max. 8388607)
  13 named destinations out of 1000 (max. 500000)

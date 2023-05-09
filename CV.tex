@@ -3,9 +3,12 @@
 \usepackage{multicol}
 \usepackage{hyperref}
 \usepackage{graphbox}
+\usepackage{pdfpages}
 
 
 \begin{document}
+%\includepdf{CoverLetter/CL.pdf}
+
     %%% TItle %%%
     \pagenumbering{arabic}
     \tcbset{colframe=title,colback=title,arc=2mm}
@@ -18,11 +21,11 @@
             \name{JACINTH DANIEL MOSES}{Computer Science Student} % Name and Profession
             \vspace{2em}
             %\address{United Arab Emirates} $\cdot$
-            \email{jackdanielmoseshs@gmail.com} $\cdot$ 
+            \email{jdm2003@hw.ac.uk} $\cdot$ 
             \linkedin{https://www.linkedin.com/in/tealmint/}{TealMint} $\cdot$
             \github{https://github.com/JacDM}{JacDM} $\cdot$\\
             \phone{+971 56 210 0384} $\cdot$
-            \website{https://jacdm.github.io/}{Website}
+            %\website{https://jacdm.github.io/}{Website}
         \end{minipage}
         
     \end{tcolorbox}
@@ -52,7 +55,8 @@
                     \skills{\LaTeX}{0, 1, 2, 3}
                     \skills{Git}{0, 1, 2, 3}
                     \skills{Docker}{0, 1, 2}
-                    $\cdot$ Used latex to make this CV!
+                    $\cdot$ Used \LaTeX to make this CV! 
+                    \href{https://github.com/JacDM/LaTeX-CV}{Code Repository}
             \end{tcolorbox}
         \end{minipage}
         \begin{minipage}[t]{0.75\textwidth} % Main Panel (e.g. Education, Work Experience)
@@ -62,18 +66,21 @@
                 \section*{Profile}
                 %\SimpleSeparator{\ColorTextMain}
                 \vspace{-1em} 
-                With many years of experience tinkering with hardware such as Raspberry Pi's and Linux machines 
-                I have developed a passion for learning about the inner workings of computers. I have also developed a passion for programming 
-                and writing code in languages such as Java, Python, etc.
-                I enjoy delving deeper into technologies and understanding how they fundamentally work.
+                I've had a long history of dabbling with electronics, 
+                including Raspberry Pis and Linux PCs, and I've grown 
+                passionate about understanding how computers operate. 
+                Additionally, I've grown passionate about programming 
+                and creating code in languages like Python and Java. 
+                I like learning more about technology and how it functions
+                at its core.
                 %\SimpleSeparator{\ColorTextMain}
                 % Work Experience
                 \vspace{-2em}
                 \section*{Projects}
                 \vspace{-1em}
                     \work{Group Software Development Project}{October 2022 - March 2023}{\includegraphics[align=c, width=2em]{setup/pics/globe.png} Year 3@Heriot-Watt}{
-                        •GeoTagAR was a 6 - month project developed by me and my team to providing users from all over the world with a way to connect and share AR-based content.\\
-                        • My roles included developing the Front and Backend of the application using the ARCore framework for AR and Flutter for the frontend. In addition, I was apointed as the team leader and scrum master. \\ 
+                        • My team and I spent six months developing GeoTagAR to give users from around the world a method to interact and share AR-based content.\\
+                        • My responsibilities included creating the application's front end and back end utilizing the AR- Core framework for AR and Flutter for the front end. I was also appointed team captain and scrum master. \\ 
                         • \href{https://mintsolutions.wixsite.com/tech}{Company Website}\\
                         • \href{https://github.com/JacDM/GeoTagAR}{Code Repository}
 
